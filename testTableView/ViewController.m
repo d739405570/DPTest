@@ -33,7 +33,7 @@
         cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"cellID"];
         cell.selectionStyle = UITableViewCellSelectionStyleNone;
     }
-    cell.textLabel.text = @"董鹏";
+    cell.textLabel.text = @"董鹏1";
     return cell;
 }
 
